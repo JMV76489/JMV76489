@@ -33,6 +33,8 @@ public class Principal {
       auto1.printAlphabet();
       
       auto1.checkString("babababababa");
+        
+        adadadsds
 
     }
     
